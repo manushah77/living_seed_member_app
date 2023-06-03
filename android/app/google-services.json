@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599784408736",
+    "project_id": "livingseed-f6588",
+    "storage_bucket": "livingseed-f6588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599784408736:android:2ec8ece431a2dacd7fabc5",
+        "android_client_info": {
+          "package_name": "com.example.living_seed_member"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599784408736-p79p1hia97diqofq097p75j8u5th38pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.living_seed_member",
+            "certificate_hash": "563de7a4334b22b88981771f314e4f0caf4a6c42"
+          }
+        },
+        {
+          "client_id": "599784408736-sugfdi1227o6lhmdhbl5m063e5ri1ohq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApAm1qgfBuA6p4rFI-TFUMhGcX6HvAuCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599784408736-sugfdi1227o6lhmdhbl5m063e5ri1ohq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
